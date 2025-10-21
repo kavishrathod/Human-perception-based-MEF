@@ -69,13 +69,13 @@ Inspired by how the human brain balances brightness and color under diverse ligh
 ## 📚 References
 The work builds upon seminal research in multi-exposure image fusion and perceptual modeling, including:
 
-Mertens et al., Exposure Fusion: A Practical Alternative to HDR (2007)
+- **Mertens et al.**, *Exposure Fusion*: A Practical Alternative to HDR (2007)
 
-Prabhakar et al., DeepFuse: A Deep Unsupervised Approach for Exposure Fusion (ICCV 2017)
+- **Prabhakar et al.**, *DeepFuse*: A Deep Unsupervised Approach for Exposure Fusion (ICCV 2017)
 
-Yang et al., GANFuse: Generative Adversarial Fusion Framework (2021)
+- **Yang et al.**, *GANFuse*: Generative Adversarial Fusion Framework (2021)
 
-Qu et al., TransMEF: Transformer-Based Self-Supervised Fusion (ICIP 2020)
+- **Qu et al.**, *TransMEF*: Transformer-Based Self-Supervised Fusion (ICIP 2020)
 
 ---
 📄 *Developed as part of a research project on human perception-guided deep learning for exposure fusion.*
